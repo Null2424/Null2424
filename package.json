@@ -1,0 +1,11 @@
+{
+  "name": "null2424-profile",
+  "version": "1.0.0",
+  "description": "GitHub profile README updater",
+  "main": "update-age.js",
+  "scripts": {
+    "update-age": "node update-age.js"
+  },
+  "author": "Null2424",
+  "license": "MIT"
+}
