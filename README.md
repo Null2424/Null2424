@@ -2,7 +2,7 @@
 - 👀 I’m interested in military technologies and programming
 - 🌱 I’m currently learning javascript, nodejs, and threejs.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have total Aphantasia meaning my mind's eye is blind
+- ⚡ Fun fact: I have Aphantasia meaning I can't picture anything in my mind
 
 <!---
 Null2424/Null2424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
